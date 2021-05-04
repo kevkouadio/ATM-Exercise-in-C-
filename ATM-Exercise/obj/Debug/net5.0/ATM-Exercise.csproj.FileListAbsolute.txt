@@ -1,0 +1,16 @@
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\bin\Debug\net5.0\ATM-Exercise.exe
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\bin\Debug\net5.0\ATM-Exercise.deps.json
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\bin\Debug\net5.0\ATM-Exercise.runtimeconfig.json
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\bin\Debug\net5.0\ATM-Exercise.runtimeconfig.dev.json
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\bin\Debug\net5.0\ATM-Exercise.dll
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\bin\Debug\net5.0\ref\ATM-Exercise.dll
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\bin\Debug\net5.0\ATM-Exercise.pdb
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\obj\Debug\net5.0\ATM-Exercise.csprojAssemblyReference.cache
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\obj\Debug\net5.0\ATM-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\obj\Debug\net5.0\ATM-Exercise.AssemblyInfoInputs.cache
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\obj\Debug\net5.0\ATM-Exercise.AssemblyInfo.cs
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\obj\Debug\net5.0\ATM-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\obj\Debug\net5.0\ATM-Exercise.dll
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\obj\Debug\net5.0\ref\ATM-Exercise.dll
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\obj\Debug\net5.0\ATM-Exercise.pdb
+C:\Users\kevko\source\repos\ATM-Exercise\ATM-Exercise\obj\Debug\net5.0\ATM-Exercise.genruntimeconfig.cache
