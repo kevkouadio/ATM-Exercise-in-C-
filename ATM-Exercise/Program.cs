@@ -9,12 +9,17 @@ namespace ATM_Exercise
     {
         static void Main(string[] args)
         {
+            //initial variables
             double accountBalance, withdrawal, bankFees, newAccountBalance;
+            //setting initial balance to $500
             accountBalance = 500.00d;
+            //decaring a bool variable for more transactions
             bool moreTransactions = true;
 
+            //while loop for more transactions
             while (moreTransactions)
             {
+                chooseAmount:
                 try
                 {
                     Console.WriteLine("Enter the amount you wish to withdraw in multiples of 5: ");
@@ -38,30 +43,35 @@ namespace ATM_Exercise
                     {
                         Console.WriteLine("Please enter a correct amount in multiples of 5: ");
                         Console.ReadLine();
-                        Console.WriteLine("Your Balance after your operation is : $" + newAccountBalance);
+                        Console.WriteLine("Your Balance after your transaction is : $" + newAccountBalance);
                     }
 
                 }
                 catch (Exception)
                 {
                     Console.WriteLine("Incorrect amount!");
+                    goto chooseAmount;
                 }
                 
-                Console.WriteLine("Would you like to conduct another transaction? (Y/N)");
-                string ans = Console.ReadLine().ToUpper();
-    
+             continue1:
+             Console.WriteLine("Would you like to conduct another transaction? (Y/N)");
+             string ans = Console.ReadLine().ToUpper();
+
                 if (ans == "N")
+                {
                     moreTransactions = false;
+                    Console.WriteLine("Thanks for using our ATM! Have a nice day!");
+                }
                 else if (ans == "Y")
                 {
                     moreTransactions = true;
-                    //Console.WriteLine("Please enter dollar amount in multiples of 5: ");
                 }
                 else
                 {
                     Console.WriteLine("Please enter 'Y' for Yes or 'N' for No:");
-                    _ = Console.ReadLine().ToUpper();
+                    goto continue1;
                 }
+            
             }
             
         }
