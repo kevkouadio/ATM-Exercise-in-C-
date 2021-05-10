@@ -55,7 +55,7 @@ namespace ATM_Exercise
                 
              continue1:
              Console.WriteLine("Would you like to conduct another transaction? (Y/N)");
-             string ans = Console.ReadLine().ToUpper();
+             string ans = Console.ReadLine().ToUpper().Trim();
 
                 if (ans == "N")
                 {
